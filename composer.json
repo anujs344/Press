@@ -1,0 +1,14 @@
+{
+    "name": "anugonvt/press",
+    "description": "An elegant markdown-powered blog for the laravel frameword",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bwf1dodolo",
+            "email": "82048279+bwf1dodolo@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.25"
+    }
+}
